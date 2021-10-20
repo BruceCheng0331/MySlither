@@ -18,6 +18,7 @@ public final class Main {
         }
 
         new MySlitherJFrame().setVisible(true);
+        //test if I can push
 
     }
 }
